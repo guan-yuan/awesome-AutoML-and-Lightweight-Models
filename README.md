@@ -4,18 +4,21 @@ A list of high-quality and newest AutoML works for **1.) neural architecture sea
 This repo is aimed to provide the info for AutoML research. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
 ## Neural Architecture Search
-[papers]
-- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search [2018/12]](https://arxiv.org/pdf/1812.03443.pdf)
+[Papers]
+- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.03443.pdf)[2018/12]
 
-[projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni)
+[Projects]
+- [Microsoft/nni](https://github.com/Microsoft/nni)[Python]
 
 ## Model Compression & Acceleration
 
+[Projects]
+- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/)[PyTorch]
+
 ## Hyperparameter Optimization
 
-[projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni)
+[Projects]
+- [Microsoft/nni](https://github.com/Microsoft/nni)[Python]
 
 ## Automated Feature Engineering
 
