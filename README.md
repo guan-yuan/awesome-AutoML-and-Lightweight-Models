@@ -20,5 +20,8 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 [Projects]
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
+[tutorials]
+- [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
+
 ## Automated Feature Engineering
 
