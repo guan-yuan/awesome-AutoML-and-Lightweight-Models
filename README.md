@@ -5,20 +5,20 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Neural Architecture Search
 [Papers]
-- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.03443.pdf) [2018/12]
+- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.03443.pdf) | [2018/12]
 
 [Projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni) [Python]
+- [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 ## Model Compression & Acceleration
 
 [Projects]
-- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) [PyTorch]
+- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [PyTorch]
 
 ## Hyperparameter Optimization
 
 [Projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni) [Python]
+- [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 ## Automated Feature Engineering
 
