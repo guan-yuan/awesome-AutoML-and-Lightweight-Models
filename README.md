@@ -14,5 +14,8 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Hyperparameter Optimization
 
+[projects]
+- [Microsoft/nni](https://github.com/Microsoft/nni)
+
 ## Automated Feature Engineering
 
