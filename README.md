@@ -22,6 +22,7 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 [tutorials/blogs]
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
+- [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
 
 ## Automated Feature Engineering
 
