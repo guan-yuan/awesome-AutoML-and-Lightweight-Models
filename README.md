@@ -12,16 +12,16 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Model Compression & Acceleration, Light-weight Structures
 [Papers]
-- [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]**[segmentation]**
+- [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11][segmentation]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [pytorch]
 
-- [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018]
+- [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018][segmentation]
   + [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) | [pytorch]
 
-- [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | [T-ITS 2017]
+- [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | [T-ITS 2017][segmentation]
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [pytorch]
 
-- [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
+- [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016][acceleration]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [python]
 
 [Projects]
