@@ -8,20 +8,23 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.03443.pdf) | [2018/12]
 
 [Projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
+- [Microsoft/nni](https://github.com/Microsoft/nni) | [python]
 
 ## Model Compression & Acceleration, Lightweight Structures
 [Papers]
-- [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [2016; CVPR 2016]
-  + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
+- [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018]
+  + [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) | [pytorch]
+
+- [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
+  + [andravin/wincnn](https://github.com/andravin/wincnn) | [python]
 
 [Projects]
-- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [PyTorch]
+- [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [pytorch]
 
 ## Hyperparameter Optimization
 
 [Projects]
-- [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
+- [Microsoft/nni](https://github.com/Microsoft/nni) | [python]
 
 [tutorials/blogs]
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
