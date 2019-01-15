@@ -5,7 +5,7 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Neural Architecture Search
 [Papers]
-- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/pdf/1812.03443.pdf) | [2018/12]
+- [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
 [Projects]
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [python]
