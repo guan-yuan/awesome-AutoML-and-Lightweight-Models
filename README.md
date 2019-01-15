@@ -12,7 +12,7 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Model Compression & Acceleration, Light-weight Structures
 [Papers]
-- [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11][segmentation]
+- [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11] **[Segmentation]**
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
 
 - [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018] **[Segmentation]**
