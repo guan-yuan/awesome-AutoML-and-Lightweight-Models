@@ -10,7 +10,7 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 [Projects]
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
-## Model Compression & Acceleration
+## Model Compression & Acceleration, Lightweight Structures
 [Papers]
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [2016; CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
