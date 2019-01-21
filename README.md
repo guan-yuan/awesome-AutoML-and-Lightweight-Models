@@ -5,6 +5,8 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Neural Architecture Search
 [Papers]
+- [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
+**[Gradient]**
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12] **[Gradient]**
 
 [Projects]
