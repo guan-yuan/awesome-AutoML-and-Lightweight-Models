@@ -40,3 +40,5 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 
 ## Automated Feature Engineering
 
+## References
+- [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
