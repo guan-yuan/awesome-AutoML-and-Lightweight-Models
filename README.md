@@ -12,6 +12,7 @@ Gradient:
 
 Evolutionary Algorithm:
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
+- [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
 
 **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
