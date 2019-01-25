@@ -4,8 +4,8 @@ A list of high-quality and newest AutoML works for **1.) neural architecture sea
 This repo is aimed to provide the info for AutoML research. Welcome to PR the works (papers, repositories) that are missed by the repo.
 
 ## Neural Architecture Search
-[Papers]
-  **[Gradient]**
+[Papers]  
+**[Gradient]**
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
 
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
