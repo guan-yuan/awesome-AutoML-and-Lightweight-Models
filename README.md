@@ -46,7 +46,7 @@ Acceleration:
 **[tutorials/blogs]**
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
 - [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
-- [Gaussian processes](http://krasserm.github.io/2018/03/19/gaussian-processes/)
+  + [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning)
 
 ## Automated Feature Engineering
 
