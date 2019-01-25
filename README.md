@@ -1,7 +1,7 @@
 # awesome-AutoML-and-Light-weight-models
 A list of high-quality and newest AutoML works for **1.) neural architecture search**, **2.) model compression & acceleration**, **3.) hyperparameter optimization**, **4.) automated feature engineering**.  
 
-This repo is aimed to provide the info for AutoML research. Welcome to PR the works (papers, repositories) that are missed by the repo.
+This repo is aimed to provide the info for AutoML research (especially for the light-weight models). Welcome to PR the works (papers, repositories) that are missed by the repo.
 
 ## Neural Architecture Search
 **[Papers]**   
