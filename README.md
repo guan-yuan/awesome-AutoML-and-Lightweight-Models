@@ -7,6 +7,7 @@ This repo is aimed to provide the info for AutoML research. Welcome to PR the wo
 **[Papers]**   
 Gradient:
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
+- [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926) | [ICLR 2019]
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
 Evolutionary Algorithm:
