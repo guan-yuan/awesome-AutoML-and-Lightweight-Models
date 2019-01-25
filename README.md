@@ -9,6 +9,9 @@ Gradient:
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
+Evolutionary Algorithm:
+- [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
+
 **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
