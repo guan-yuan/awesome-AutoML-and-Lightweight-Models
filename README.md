@@ -35,6 +35,9 @@ Acceleration:
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
 
+**[tutorials/blogs]**
+- [Introducing the CVPR 2018 On-Device Visual Intelligence Challenge](https://research.googleblog.com/search/label/On-device%20Learning)
+
 **[Projects]**
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 
