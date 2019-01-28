@@ -52,6 +52,9 @@ Object Detection:
 - [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | [CVPR 2017]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
+Compression:
+- [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | [ECCV 2018]
+
 Acceleration:
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
@@ -61,6 +64,7 @@ Acceleration:
 
 **[Projects]**
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
+- [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
 
 ## Hyperparameter Optimization
 
