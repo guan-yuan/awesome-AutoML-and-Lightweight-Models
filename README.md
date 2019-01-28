@@ -55,3 +55,4 @@ Acceleration:
 
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
+- [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning)
