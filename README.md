@@ -12,6 +12,15 @@ Gradient:
 
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
+- [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | [2018/06]
+  + [quark0/darts](https://github.com/quark0/darts) | [Pytorch]
+  + [khanrc/pt.darts](https://github.com/khanrc/pt.darts) | [Pytorch]
+
+Reinforcement Learning:  
+- [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
+  + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
+  + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
+
 Evolutionary Algorithm:
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
 
