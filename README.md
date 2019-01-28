@@ -39,6 +39,14 @@ Object Detection:
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
 
+- [Receptive Field Block Net for Accurate and Fast Object Detection](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf) | [ECCV 2018]
+  + [ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet) | [Pytorch]
+  + [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) | [Pytorch]
+  + [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) | [Pytorch]
+
+- [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | [CVPR 2017]
+  + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
+
 Acceleration:
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
