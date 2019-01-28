@@ -44,6 +44,10 @@ Object Detection:
   + [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) | [Pytorch]
   + [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) | [Pytorch]
 
+- [FSSD: Feature Fusion Single Shot Multibox Detector](https://arxiv.org/abs/1712.00960) | [2017/12]
+  + [ShuangXieIrene/ssds.pytorch](https://github.com/ShuangXieIrene/ssds.pytorch) | [Pytorch]
+  + [lzx1413/PytorchSSD](https://github.com/lzx1413/PytorchSSD) | [Pytorch]
+
 - [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | [CVPR 2017]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
