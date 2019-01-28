@@ -7,11 +7,14 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **[Papers]**   
 Gradient:
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
+
 - [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926) | [ICLR 2019]
+
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
 Evolutionary Algorithm:
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
+
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
 
 **[Projects]**
@@ -22,12 +25,16 @@ Evolutionary Algorithm:
 Segmentation:
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
+  
 - [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018]
   + [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) | [Pytorch]
+  
 - [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | [T-ITS 2017]
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [Pytorch]
 
 Object Detection:
+- [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | []
+
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
 
@@ -48,6 +55,7 @@ Acceleration:
 
 **[tutorials/blogs]**
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
+
 - [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
   + [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) | [Python]
 
