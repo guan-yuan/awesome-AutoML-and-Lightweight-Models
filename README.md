@@ -33,7 +33,8 @@ Segmentation:
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [Pytorch]
 
 Object Detection:
-- [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | []
+- [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | [2018/09]
+  + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
