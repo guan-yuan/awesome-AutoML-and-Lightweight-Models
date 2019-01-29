@@ -83,6 +83,8 @@ Acceleration:
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 **[tutorials/blogs]**
+- [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization](https://cloud.google.com/blog/products/gcp/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization)
+
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
 
 - [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
