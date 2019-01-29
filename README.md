@@ -68,6 +68,10 @@ Compression:
 - [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519) | [ICCV 2017]
   + [foolwood/pytorch-slimming](https://github.com/foolwood/pytorch-slimming) | [Pytorch]
 
+- [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) | [ICLR 2017]
+  + [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) | [Pytorch]
+
+- [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | [ICLR 2017]
 
 Acceleration:
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
