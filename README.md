@@ -75,6 +75,9 @@ Acceleration:
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
 
+**[tutorials/blogs]**
+- [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
+
 ## Hyperparameter Optimization
 
 **[Projects]**
