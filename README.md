@@ -63,6 +63,11 @@ Object Detection:
 
 Compression:
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | [ECCV 2018]
+  + [AutoML for Model Compression (AMC): Trials and Tribulations](https://github.com/NervanaSystems/distiller/wiki/AutoML-for-Model-Compression-(AMC):-Trials-and-Tribulations) | [Pytorch]
+
+- [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519) | [ICCV 2017]
+  + [foolwood/pytorch-slimming](https://github.com/foolwood/pytorch-slimming) | [Pytorch]
+
 
 Acceleration:
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
