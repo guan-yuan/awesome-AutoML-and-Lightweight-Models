@@ -68,6 +68,9 @@ Compression:
 - [Learning Efficient Convolutional Networks through Network Slimming](https://arxiv.org/abs/1708.06519) | [ICCV 2017]
   + [foolwood/pytorch-slimming](https://github.com/foolwood/pytorch-slimming) | [Pytorch]
 
+- [Channel Pruning for Accelerating Very Deep Neural Networks](https://arxiv.org/abs/1707.06168) | [ICCV 2017]
+  + [yihui-he/channel-pruning](https://github.com/yihui-he/channel-pruning) | [Caffe]
+
 - [Pruning Convolutional Neural Networks for Resource Efficient Inference](https://arxiv.org/abs/1611.06440) | [ICLR 2017]
   + [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) | [Pytorch]
 
