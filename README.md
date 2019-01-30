@@ -23,6 +23,8 @@ Reinforcement Learning:
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
 
 Evolutionary Algorithm:
+- [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z) | [Nature Machine Intelligence 2019]
+
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
 
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
