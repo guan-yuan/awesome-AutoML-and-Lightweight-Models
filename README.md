@@ -38,6 +38,9 @@ Evolutionary Algorithm:
 
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
 
+Random Search:
+- [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction) | [NIPS 2018]
+
 **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
@@ -102,6 +105,7 @@ Acceleration:
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
 
 ## Hyperparameter Optimization
+- [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [SIGKDD 2017]
 
 **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
