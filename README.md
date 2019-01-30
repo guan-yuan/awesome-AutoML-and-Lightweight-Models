@@ -18,6 +18,12 @@ Gradient:
   + [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) | [Pytorch]
 
 Reinforcement Learning:  
+- [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261) | [2019/01]
+  + [falsr/FALSR](https://github.com/falsr/FALSR) | [Tensorflow]
+
+- [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074) | [2019/01]
+  + [moremnas/MoreMNAS](https://github.com/moremnas/MoreMNAS) | [Tensorflow]
+
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
   + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
