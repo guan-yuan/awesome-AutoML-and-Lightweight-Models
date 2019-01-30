@@ -27,6 +27,8 @@ Reinforcement Learning:
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074) | [2019/01]
   + [moremnas/MoreMNAS](https://github.com/moremnas/MoreMNAS) | [Tensorflow]
 
+- [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | [NIPS 2018]
+
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
   + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
