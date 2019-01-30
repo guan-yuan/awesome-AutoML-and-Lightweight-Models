@@ -4,7 +4,7 @@ A list of high-quality and newest AutoML works for **1.) neural architecture sea
 This repo is aimed to provide the info for AutoML research (especially for the light-weight models). Welcome to PR the works (papers, repositories) that are missed by the repo.
 
 ## Neural Architecture Search
-**[Papers]**   
+### **[Papers]**   
 **Gradient:**
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
 
@@ -43,11 +43,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Random Search:**
 - [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction) | [NIPS 2018]
 
-**[Projects]**
+### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 ## Model Compression & Acceleration, Light-weight Structures
-**[Papers]**  
+### **[Papers]**  
 **Segmentation:**
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
@@ -97,11 +97,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
 
-**[Projects]**
+### **[Projects]**
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
 
-**[tutorials/blogs]**
+### **[tutorials/blogs]**
 - [Introducing the CVPR 2018 On-Device Visual Intelligence Challenge](https://research.googleblog.com/search/label/On-device%20Learning)
 
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
