@@ -109,10 +109,10 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## Hyperparameter Optimization
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [SIGKDD 2017]
 
-**[Projects]**
+### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
-**[tutorials/blogs]**
+### **[tutorials/blogs]**
 - [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization](https://cloud.google.com/blog/products/gcp/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization)
 
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
