@@ -101,7 +101,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
 
-### **[tutorials/blogs]**
+### **[Tutorials/Blogs]**
 - [Introducing the CVPR 2018 On-Device Visual Intelligence Challenge](https://research.googleblog.com/search/label/On-device%20Learning)
 
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
@@ -112,7 +112,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
-### **[tutorials/blogs]**
+### **[Tutorials/Blogs]**
 - [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization](https://cloud.google.com/blog/products/gcp/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization)
 
 - [Overview of Bayesian Optimization](https://soubhikbarari.github.io/blog/2016/09/14/overview-of-bayesian-optimization)
