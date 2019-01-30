@@ -15,6 +15,7 @@ Gradient:
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | [2018/06]
   + [quark0/darts](https://github.com/quark0/darts) | [Pytorch]
   + [khanrc/pt.darts](https://github.com/khanrc/pt.darts) | [Pytorch]
+  + [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) | [Pytorch]
 
 Reinforcement Learning:  
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
