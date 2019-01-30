@@ -12,6 +12,9 @@ Gradient:
 
 - [FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443) | [2018/12]
 
+- [Neural Architecture Optimization](http://papers.nips.cc/paper/8007-neural-architecture-optimization) | [NIPS 2018]
+  + [renqianluo/NAO](https://github.com/renqianluo/NAO) | [Tensorflow]
+
 - [DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) | [2018/06]
   + [quark0/darts](https://github.com/quark0/darts) | [Pytorch]
   + [khanrc/pt.darts](https://github.com/khanrc/pt.darts) | [Pytorch]
