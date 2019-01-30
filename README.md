@@ -5,7 +5,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## Neural Architecture Search
 **[Papers]**   
-Gradient:
+**Gradient:**
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
 
 - [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926) | [ICLR 2019]
@@ -20,7 +20,7 @@ Gradient:
   + [khanrc/pt.darts](https://github.com/khanrc/pt.darts) | [Pytorch]
   + [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) | [Pytorch]
 
-Reinforcement Learning:  
+**Reinforcement Learning:**  
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261) | [2019/01]
   + [falsr/FALSR](https://github.com/falsr/FALSR) | [Tensorflow]
 
@@ -33,14 +33,14 @@ Reinforcement Learning:
   + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
 
-Evolutionary Algorithm:
+**Evolutionary Algorithm:**
 - [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z) | [Nature Machine Intelligence 2019]
 
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
 
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
 
-Random Search:
+**Random Search:**
 - [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction) | [NIPS 2018]
 
 **[Projects]**
@@ -48,7 +48,7 @@ Random Search:
 
 ## Model Compression & Acceleration, Light-weight Structures
 **[Papers]**  
-Segmentation:
+**Segmentation:**
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
   
@@ -58,7 +58,7 @@ Segmentation:
 - [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | [T-ITS 2017]
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [Pytorch]
 
-Object Detection:
+**Object Detection:**
 - [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | [2018/09]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
@@ -78,7 +78,7 @@ Object Detection:
 - [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | [CVPR 2017]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
-Compression:
+**Compression:**
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | [ECCV 2018]
   + [AutoML for Model Compression (AMC): Trials and Tribulations](https://github.com/NervanaSystems/distiller/wiki/AutoML-for-Model-Compression-(AMC):-Trials-and-Tribulations) | [Pytorch]
 
@@ -93,7 +93,7 @@ Compression:
 
 - [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | [ICLR 2017]
 
-Acceleration:
+**Acceleration:**
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [CVPR 2016]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
 
