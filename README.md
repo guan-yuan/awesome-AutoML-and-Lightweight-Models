@@ -27,6 +27,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Multi-Objective Reinforced Evolution in Mobile Neural Architecture Search](https://arxiv.org/abs/1901.01074) | [2019/01]
   + [moremnas/MoreMNAS](https://github.com/moremnas/MoreMNAS) | [Tensorflow]
 
+- [ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332) | [ICLR 2019]
+  + [MIT-HAN-LAB/ProxylessNAS](https://github.com/MIT-HAN-LAB/ProxylessNAS) | [Pytorch, Tensorflow]
+
 - [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | [NIPS 2018]
 
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
