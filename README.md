@@ -43,6 +43,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Random Search:**
 - [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction) | [NIPS 2018]
 
+**Hypernetwork**
+- [Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/abs/1810.05749) | [ICLR 2019]
+
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
