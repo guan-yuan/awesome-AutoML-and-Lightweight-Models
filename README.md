@@ -1,5 +1,5 @@
 # awesome-AutoML-and-Lightweight-Models
-A list of high-quality (newest) AutoML works and lightweight models including **1.) neural architecture search**, **2.) model compression & acceleration and Light-weight Structures**, **3.) hyperparameter optimization**, **4.) automated feature engineering**.  
+A list of high-quality (newest) AutoML works and lightweight models including **1.) Neural Architecture Search**, **2.) Model Compression & Acceleration and Lightweight Structures**, **3.) Hyperparameter Optimization**, **4.) Automated Feature Engineering**.  
 
 This repo is aimed to provide the info for AutoML research (especially for the light-weight models). Welcome to PR the works (papers, repositories) that are missed by the repo.
 
@@ -55,7 +55,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
-## Model Compression & Acceleration, Light-weight Structures
+## Model Compression & Acceleration, Lightweight Structures
 ### **[Papers]**  
 **Segmentation:**
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
