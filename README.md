@@ -46,7 +46,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
 
-**SMBO**
+**SMBO:**
 - [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](https://arxiv.org/abs/1806.08198) | [ECCV 2018]
 
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559) | [ECCV 2018]
