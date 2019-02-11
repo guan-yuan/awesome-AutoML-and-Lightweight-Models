@@ -40,13 +40,13 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
 
 **Evolutionary Algorithm:**
+- [The Evolved Transformer](https://arxiv.org/abs/1901.11117) | [2019/01]
+
 - [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z) | [Nature Machine Intelligence 2019]
 
 - [EAT-NAS: Elastic Architecture Transfer for Accelerating Large-scale Neural Architecture Search](https://arxiv.org/abs/1901.05884) | [2019/01]
 
 - [Efficient Multi-objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081) | [ICLR 2019]
-
-- [The Evolved Transformer](https://arxiv.org/abs/1901.11117) | [2019/01]
 
 **SMBO:**
 - [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](https://arxiv.org/abs/1806.08198) | [ECCV 2018]
