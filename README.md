@@ -32,6 +32,10 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [Transfer Learning with Neural AutoML](http://papers.nips.cc/paper/8056-transfer-learning-with-neural-automl) | [NIPS 2018]
 
+- [Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/abs/1707.07012) | [2018/07]
+  + [wandering007/nasnet-pytorch](https://github.com/wandering007/nasnet-pytorch) | [Pytorch]
+  + [tensorflow/models/research/slim/nets/nasnet/](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) | [Tensorflow]
+
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | [2018/07]
   + [AnjieZheng/MnasNet-PyTorch](https://github.com/AnjieZheng/MnasNet-PyTorch) | [Pytorch]
 
