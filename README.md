@@ -35,6 +35,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) | [2018/07]
   + [AnjieZheng/MnasNet-PyTorch](https://github.com/AnjieZheng/MnasNet-PyTorch) | [Pytorch]
 
+- [Practical Block-wise Neural Network Architecture Generation](https://arxiv.org/abs/1708.05552) | [CVPR 2018]
+
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
   + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
