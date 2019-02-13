@@ -52,6 +52,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [DPP-Net: Device-aware Progressive Search for Pareto-optimal Neural Architectures](https://arxiv.org/abs/1806.08198) | [ECCV 2018]
 
 - [Progressive Neural Architecture Search](https://arxiv.org/abs/1712.00559) | [ECCV 2018]
+  + [titu1994/progressive-neural-architecture-search](https://github.com/titu1994/progressive-neural-architecture-search) | [Keras, Tensorflow]
   + [chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) | [Pytorch]
 
 **Random Search:**
