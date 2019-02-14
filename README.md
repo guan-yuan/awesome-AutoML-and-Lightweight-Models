@@ -44,6 +44,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Efficient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268) | [ICML 2018]
   + [melodyguan/enas](https://github.com/melodyguan/enas) | [Tensorflow]
   + [carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch) | [Pytorch]
+  
+- [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) | [AAAI 2018]
 
 **Evolutionary Algorithm:**
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) | [2019/01]
