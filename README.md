@@ -6,6 +6,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [Probabilistic Neural Architecture Search](https://arxiv.org/abs/1902.05116) | [2019/02]
+
 - [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) | [2019/01]
 
 - [SNAS: Stochastic Neural Architecture Search](https://arxiv.org/abs/1812.09926) | [ICLR 2019]
