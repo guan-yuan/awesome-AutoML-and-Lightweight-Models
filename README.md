@@ -82,6 +82,10 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   
 - [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018]
   + [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) | [Pytorch]
+
+- [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) | [ECCV 2018]
+  + [ooooverflow/BiSeNet](https://github.com/ooooverflow/BiSeNet) | [Pytorch]
+  + [ycszen/TorchSeg](https://github.com/ycszen/TorchSeg) | [Pytorch]
   
 - [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17tits.pdf) | [T-ITS 2017]
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [Pytorch]
