@@ -97,6 +97,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | [2018/09]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
+- [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | [BMVC 2018]
+  + [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) | [Caffe]
+
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
 
