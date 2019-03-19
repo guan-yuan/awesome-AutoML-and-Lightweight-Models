@@ -95,7 +95,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 **Object Detection:**
 - [Spiking-YOLO: Spiking Neural Network for Real-time Object Detection](https://128.84.21.199/abs/1903.06530) | [2019/03]
-  + [Hananel-Hazan/bindsnet](https://github.com/Hananel-Hazan/bindsnet) | [P]
+  + [Hananel-Hazan/bindsnet](https://github.com/Hananel-Hazan/bindsnet) | [Pytorch]
   
 - [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | [2018/09]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
