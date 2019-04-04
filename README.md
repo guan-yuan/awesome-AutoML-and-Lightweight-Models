@@ -105,6 +105,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
+  + [Robert-JunWang/PeleeNet](https://github.com/Robert-JunWang/PeleeNet) | [Pytorch]
 
 - [Receptive Field Block Net for Accurate and Fast Object Detection](https://eccv2018.org/openaccess/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf) | [ECCV 2018]
   + [ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet) | [Pytorch]
