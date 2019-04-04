@@ -103,7 +103,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages](https://arxiv.org/abs/1807.11013) | [BMVC 2018]
   + [lyxok1/Tiny-DSOD](https://github.com/lyxok1/Tiny-DSOD) | [Caffe]
 
-- [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [ICLR 2018 workshop]
+- [Pelee: A Real-Time Object Detection System on Mobile Devices](https://arxiv.org/abs/1804.06882) | [NeurIPS 2018]
   + [Robert-JunWang/Pelee](https://github.com/Robert-JunWang/Pelee) | [Caffe]
   + [Robert-JunWang/PeleeNet](https://github.com/Robert-JunWang/PeleeNet) | [Pytorch]
 
