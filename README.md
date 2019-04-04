@@ -83,7 +83,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
   
-- [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [ECCV 2018]
+- [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](https://sacmehta.github.io/ESPNet/) | [**ECCV 2018**]
   + [sacmehta/ESPNet](https://github.com/sacmehta/ESPNet/) | [Pytorch]
 
 - [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/1808.00897) | [**ECCV 2018**]
