@@ -1,9 +1,9 @@
 # awesome-AutoML-and-Lightweight-Models
-A list of high-quality (newest) AutoML works and lightweight models including **1.) Neural Architecture Search**, **2.) Model Compression & Acceleration and Lightweight Structures**, **3.) Hyperparameter Optimization**, **4.) Automated Feature Engineering**.  
+A list of high-quality (newest) AutoML works and lightweight models including **1.) Neural Architecture Search**, **2.) Lightweight Structures**, **3.) Model Compression & Acceleration**, **4.) Hyperparameter Optimization**, **5.) Automated Feature Engineering**.
 
 This repo is aimed to provide the info for AutoML research (especially for the lightweight models). Welcome to PR the works (papers, repositories) that are missed by the repo.
 
-## Neural Architecture Search
+## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
 - [Learning Implicitly Recurrent CNNs Through Parameter Sharing](https://arxiv.org/abs/1902.09701) | [**ICLR 2019**]
@@ -77,7 +77,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
-## Model Compression & Acceleration, Lightweight Structures
+## 2.) Lightweight Structures
 ### **[Papers]**  
 **Segmentation:**
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
@@ -117,6 +117,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | [**CVPR 2017**]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
+## 3.) Model Compression & Acceleration
+### **[Papers]** 
 **Compression:**
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | [**ECCV 2018**]
   + [AutoML for Model Compression (AMC): Trials and Tribulations](https://github.com/NervanaSystems/distiller/wiki/AutoML-for-Model-Compression-(AMC):-Trials-and-Tribulations) | [Pytorch]
@@ -145,7 +147,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
 
-## Hyperparameter Optimization
+## 4.) Hyperparameter Optimization
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [**SIGKDD 2017**]
 
 ### **[Projects]**
@@ -159,7 +161,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
   + [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) | [Python]
 
-## Automated Feature Engineering
+## 5.) Automated Feature Engineering
 
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
