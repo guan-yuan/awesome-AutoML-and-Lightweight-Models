@@ -145,8 +145,6 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Tutorials/Blogs]**
 - [Introducing the CVPR 2018 On-Device Visual Intelligence Challenge](https://research.googleblog.com/search/label/On-device%20Learning)
 
-- [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
-
 ## 4.) Hyperparameter Optimization
 ### **[Papers]** 
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [**SIGKDD 2017**]
@@ -163,6 +161,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [krasserm/bayesian-machine-learning](https://github.com/krasserm/bayesian-machine-learning) | [Python]
 
 ## 5.) Automated Feature Engineering
+
+## Model Analyzer
+- [Netscope CNN Analyzer](https://chakkritte.github.io/netscope/quickstart.html) | [Caffe]
+
+- [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
 
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
