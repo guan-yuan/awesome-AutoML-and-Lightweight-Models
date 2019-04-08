@@ -167,7 +167,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
 
-- [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary)
+- [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) | [Pytorch]
+
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) | [Pytorch]
 
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
