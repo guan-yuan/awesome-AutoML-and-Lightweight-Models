@@ -167,6 +167,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/master/pytorch_segmentation_detection/utils/flops_benchmark.py) | [Pytorch]
 
+- [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary)
+
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
 - [handong1587/handong1587.github.io](https://github.com/handong1587/handong1587.github.io/tree/master/_posts/deep_learning)
