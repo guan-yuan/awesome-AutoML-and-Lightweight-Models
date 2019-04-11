@@ -28,6 +28,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [dragen1860/DARTS-PyTorch](https://github.com/dragen1860/DARTS-PyTorch) | [Pytorch]
 
 **Reinforcement Learning:**  
+- [Understanding Neural Architecture Search Techniques](https://arxiv.org/abs/1904.00438) | [2019/03]
+
 - [Fast, Accurate and Lightweight Super-Resolution with Neural Architecture Search](https://arxiv.org/abs/1901.07261) | [2019/01]
   + [falsr/FALSR](https://github.com/falsr/FALSR) | [Tensorflow]
 
