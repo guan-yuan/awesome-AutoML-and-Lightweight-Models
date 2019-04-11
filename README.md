@@ -6,6 +6,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [sharpDARTS: Faster and More Accurate Differentiable Architecture Search](https://arxiv.org/abs/1903.09900) | [2019/03]
+
 - [Learning Implicitly Recurrent CNNs Through Parameter Sharing](https://arxiv.org/abs/1902.09701) | [**ICLR 2019**]
   + [lolemacs/soft-sharing](https://github.com/lolemacs/soft-sharing) | [Pytorch]
 
