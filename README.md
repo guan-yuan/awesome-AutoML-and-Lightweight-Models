@@ -136,6 +136,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 3.) Model Compression & Acceleration
 ### **[Papers]** 
 **Compression:**
+- [Slimmable Neural Networks](https://openreview.net/pdf?id=H1gMCsAqY7) | [**ICLR 2019**]
+  + [JiahuiYu/slimmable_networks](https://github.com/JiahuiYu/slimmable_networks) | [Pytorch]
+
 - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://arxiv.org/abs/1802.03494) | [**ECCV 2018**]
   + [AutoML for Model Compression (AMC): Trials and Tribulations](https://github.com/NervanaSystems/distiller/wiki/AutoML-for-Model-Compression-(AMC):-Trials-and-Tribulations) | [Pytorch]
 
