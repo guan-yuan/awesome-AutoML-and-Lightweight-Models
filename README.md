@@ -77,6 +77,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Bayesian Optimization:**
 - [Inductive Transfer for Neural Architecture Optimization](https://arxiv.org/abs/1903.03536) | [2019/03]
 
+**Partial Order Pruning**
+- [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | [**CVPR 2019**]
+
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
