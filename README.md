@@ -74,6 +74,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Hypernetwork:**
 - [Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/abs/1810.05749) | [**ICLR 2019**]
 
+**Bayesian Optimization:**
+- [Inductive Transfer for Neural Architecture Optimization](https://arxiv.org/abs/1903.03536) | [2019/03]
+
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
