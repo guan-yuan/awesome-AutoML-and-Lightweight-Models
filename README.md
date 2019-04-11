@@ -53,6 +53,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) | [**AAAI 2018**]
 
 **Evolutionary Algorithm:**
+- [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979) | [2019/03]
+
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) | [2019/01]
 
 - [Designing neural networks through neuroevolution](https://www.nature.com/articles/s42256-018-0006-z) | [**Nature Machine Intelligence 2019**]
