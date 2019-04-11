@@ -159,10 +159,14 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## 4.) Hyperparameter Optimization
 ### **[Papers]** 
+- [Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly](https://arxiv.org/abs/1903.06694) | [2019/03]
+  + [dragonfly/dragonfly](https://github.com/dragonfly/dragonfly)
+
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [**SIGKDD 2017**]
 
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
+- [dragonfly/dragonfly](https://github.com/dragonfly/dragonfly) | [Python]
 
 ### **[Tutorials/Blogs]**
 - [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization](https://cloud.google.com/blog/products/gcp/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization)
