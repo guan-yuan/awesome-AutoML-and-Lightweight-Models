@@ -79,6 +79,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) | [Pytorch]
 
 **Random Search:**
+- [Exploring Randomly Wired Neural Networks for Image Recognition](https://arxiv.org/abs/1904.01569) | [2019/04]
+
 - [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](http://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction) | [**NIPS 2018**]
 
 **Hypernetwork:**
