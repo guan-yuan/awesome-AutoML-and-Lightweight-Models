@@ -55,6 +55,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Efficient Architecture Search by Network Transformation](https://arxiv.org/abs/1707.04873) | [**AAAI 2018**]
 
 **Evolutionary Algorithm:**
+- [Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420) | [2019/04]
+
 - [DetNAS: Neural Architecture Search on Object Detection](https://arxiv.org/abs/1903.10979) | [2019/03]
 
 - [The Evolved Transformer](https://arxiv.org/abs/1901.11117) | [2019/01]
