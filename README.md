@@ -79,6 +79,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 **Partial Order Pruning**
 - [Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/abs/1903.03777) | [**CVPR 2019**]
+  + [lixincn2015/Partial-Order-Pruning](https://github.com/lixincn2015/Partial-Order-Pruning) | [Caffe]
 
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
