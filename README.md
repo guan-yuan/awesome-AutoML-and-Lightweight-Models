@@ -196,8 +196,6 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## Model Analyzer
 - [Netscope CNN Analyzer](https://chakkritte.github.io/netscope/quickstart.html) | [Caffe]
 
-- [pytorch_flops_benchmark](https://github.com/warmspringwinds/pytorch-segmentation-detection/blob/d5df5e066fe9c6078d38b26527d93436bf869b1c/pytorch_segmentation_detection/recipes/pascal_voc/segmentation/flops_counter.ipynb) | [Pytorch]
-
 - [sksq96/pytorch-summary](https://github.com/sksq96/pytorch-summary) | [Pytorch]
 
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) | [Pytorch]
