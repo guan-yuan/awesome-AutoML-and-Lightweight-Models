@@ -6,6 +6,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123) | [2019/04]
+
 - [Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours](https://arxiv.org/abs/1904.02877#) | [2019/04]
   + [dstamoulis/single-path-nas](https://github.com/dstamoulis/single-path-nas) | [Tensorflow]
 
