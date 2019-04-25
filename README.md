@@ -6,6 +6,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours](https://arxiv.org/abs/1904.02877#) | [2019/04]
+  + [dstamoulis/single-path-nas](https://github.com/dstamoulis/single-path-nas) | [Tensorflow]
+
 - [Automatic Convolutional Neural Architecture Search for Image Classification Under Different Scenes](https://ieeexplore.ieee.org/document/8676019) | [**IEEE Access 2019**]
 
 - [sharpDARTS: Faster and More Accurate Differentiable Architecture Search](https://arxiv.org/abs/1903.09900) | [2019/03]
