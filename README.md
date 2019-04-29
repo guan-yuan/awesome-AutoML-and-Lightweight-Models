@@ -128,6 +128,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [Eromera/erfnet_pytorch](https://github.com/Eromera/erfnet_pytorch) | [Pytorch]
 
 **Object Detection:**
+- [ThunderNet: Towards Real-time Generic Object Detection](https://arxiv.org/abs/1903.11752) | [2019/03]
+
 - [Pooling Pyramid Network for Object Detection](https://arxiv.org/abs/1807.03284) | [2018/09]
   + [tensorflow/models](https://github.com/tensorflow/models/tree/master/research/object_detection/models) | [Tensorflow]
 
