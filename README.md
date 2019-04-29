@@ -111,6 +111,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 2.) Lightweight Structures
 ### **[Papers]**  
 **Segmentation:**
+- [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) | [2019/04]
+  + [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) | [Pytorch]
+
 - [ESPNetv2: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network](https://arxiv.org/abs/1811.11431) | [2018/11]
   + [sacmehta/ESPNetv2](https://github.com/sacmehta/ESPNetv2) | [Pytorch]
   
