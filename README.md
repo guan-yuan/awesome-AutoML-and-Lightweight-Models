@@ -212,7 +212,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter) | [Pytorch]
 
-- [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch)
+- [sovrasov/flops-counter.pytorch](https://github.com/sovrasov/flops-counter.pytorch) | [Pytorch]
 
 ## References
 - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
