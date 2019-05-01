@@ -189,6 +189,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Tuning Hyperparameters without Grad Students: Scalable and Robust Bayesian Optimisation with Dragonfly](https://arxiv.org/abs/1903.06694) | [2019/03]
   + [dragonfly/dragonfly](https://github.com/dragonfly/dragonfly)
 
+- [Efficient High Dimensional Bayesian Optimization with Additivity and Quadrature Fourier Features](https://papers.nips.cc/paper/8115-efficient-high-dimensional-bayesian-optimization-with-additivity-and-quadrature-fourier-features) | [**NeurIPS 2018**]
+
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [**SIGKDD 2017**]
 
 ### **[Projects]**
