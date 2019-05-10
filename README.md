@@ -110,6 +110,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## 2.) Lightweight Structures
 ### **[Papers]**  
+**Backbone**
+- [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | [2019/05]
+  + [kuan-wang/pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) | [Pytorch]
+  + [leaderj1001/MobileNetV3-Pytorch](https://github.com/leaderj1001/MobileNetV3-Pytorch) | [Pytorch]
+
 **Segmentation:**
 - [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) | [2019/04]
   + [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) | [Pytorch]
