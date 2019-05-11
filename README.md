@@ -6,6 +6,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [Searching for A Robust Neural Architecture in Four GPU Hours](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/) | [CVPR 2019]
+
 - [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123) | [2019/04]
 
 - [Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours](https://arxiv.org/abs/1904.02877#) | [2019/04]
