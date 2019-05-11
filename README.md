@@ -164,6 +164,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) | [**ICLR 2019**]
   + [google-research/lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) | [Tensorflow]
 
+- [Rethinking the Value of Network Pruning](https://arxiv.org/abs/1810.05270) | [**ICLR 2019**]
+
 - [Slimmable Neural Networks](https://openreview.net/pdf?id=H1gMCsAqY7) | [**ICLR 2019**]
   + [JiahuiYu/slimmable_networks](https://github.com/JiahuiYu/slimmable_networks) | [Pytorch]
 
