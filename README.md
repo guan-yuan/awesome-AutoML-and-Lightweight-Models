@@ -6,7 +6,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
-- [Searching for A Robust Neural Architecture in Four GPU Hours](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/) | [CVPR 2019]
+- [Searching for A Robust Neural Architecture in Four GPU Hours](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/) | [**CVPR 2019**]
   + [D-X-Y/GDAS](https://github.com/D-X-Y/GDAS) | [Pytorch]
 
 - [ASAP: Architecture Search, Anneal and Prune](https://arxiv.org/abs/1904.04123) | [2019/04]
