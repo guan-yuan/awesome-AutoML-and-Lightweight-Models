@@ -161,6 +161,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 3.) Model Compression & Acceleration
 ### **[Papers]** 
 **Compression:**
+- [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) | [**ICLR 2019**]
+  + [google-research/lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) | [Tensorflow]
+
 - [Slimmable Neural Networks](https://openreview.net/pdf?id=H1gMCsAqY7) | [**ICLR 2019**]
   + [JiahuiYu/slimmable_networks](https://github.com/JiahuiYu/slimmable_networks) | [Pytorch]
 
