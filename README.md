@@ -187,6 +187,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | [**ICLR 2017**]
 
 **Quantization:**
+- [Post-training 4-bit quantization of convolution networks for rapid-deployment](https://arxiv.org/abs/1810.05723) | [**ICML 2018**]
 
 **Acceleration:**
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [**CVPR 2016**]
