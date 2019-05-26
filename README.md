@@ -163,7 +163,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ## 3.) Model Compression & Acceleration
 ### **[Papers]** 
-**Compression:**
+**Pruning:**
 - [The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://arxiv.org/abs/1803.03635) | [**ICLR 2019**]
   + [google-research/lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) | [Tensorflow]
 
@@ -185,6 +185,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [jacobgil/pytorch-pruning](https://github.com/jacobgil/pytorch-pruning) | [Pytorch]
 
 - [Pruning Filters for Efficient ConvNets](https://arxiv.org/abs/1608.08710) | [**ICLR 2017**]
+
+**Quantization:**
 
 **Acceleration:**
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [**CVPR 2016**]
