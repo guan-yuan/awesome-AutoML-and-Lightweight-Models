@@ -115,6 +115,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Papers]**  
 **Backbone:**
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | [**ICML 2019**]
+  + [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) | [Tensorflow]
+  + [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) | [Pytorch]
 
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | [2019/05]
   + [kuan-wang/pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) | [Pytorch]
