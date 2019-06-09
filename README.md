@@ -114,6 +114,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 2.) Lightweight Structures
 ### **[Papers]**  
 **Backbone:**
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | [**ICML 2019**]
+
 - [Searching for MobileNetV3](https://arxiv.org/abs/1905.02244) | [2019/05]
   + [kuan-wang/pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) | [Pytorch]
   + [leaderj1001/MobileNetV3-Pytorch](https://github.com/leaderj1001/MobileNetV3-Pytorch) | [Pytorch]
