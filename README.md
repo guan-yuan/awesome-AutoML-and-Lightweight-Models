@@ -1,5 +1,5 @@
 # awesome-AutoML-and-Lightweight-Models
-A list of high-quality (newest) AutoML works and lightweight models including **1.) Neural Architecture Search**, **2.) Lightweight Structures**, **3.) Model Compression & Acceleration**, **4.) Hyperparameter Optimization**, **5.) Automated Feature Engineering**.
+A list of high-quality (newest) AutoML works and lightweight models including **1.) Neural Architecture Search**, **2.) Lightweight Structures**, **3.) Model Compression, Quantization and Acceleration**, **4.) Hyperparameter Optimization**, **5.) Automated Feature Engineering**.
 
 This repo is aimed to provide the info for AutoML research (especially for the lightweight models). Welcome to PR the works (papers, repositories) that are missed by the repo.
 
