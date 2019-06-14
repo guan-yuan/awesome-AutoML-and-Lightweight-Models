@@ -197,6 +197,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [Post-training 4-bit quantization of convolution networks for rapid-deployment](https://arxiv.org/abs/1810.05723) | [**ICML 2018**]
 
+- [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160) | [2016/06]
+
 **Knowledge Distillation**
 - [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/abs/1711.05852) | [**ICLR 2018**]
 
