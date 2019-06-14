@@ -200,6 +200,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ### **[Projects]**
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
+- [aaron-xichen/pytorch-playground](https://github.com/aaron-xichen/pytorch-playground) | [Pytorch]
 
 ### **[Tutorials/Blogs]**
 - [Introducing the CVPR 2018 On-Device Visual Intelligence Challenge](https://research.googleblog.com/search/label/On-device%20Learning)
