@@ -193,6 +193,11 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 **Quantization:**
 - [Post-training 4-bit quantization of convolution networks for rapid-deployment](https://arxiv.org/abs/1810.05723) | [**ICML 2018**]
 
+**Knowledge Distillation**
+- [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/abs/1711.05852) | [**ICLR 2018**]
+
+- [Model compression via distillation and quantization](https://arxiv.org/abs/1802.05668) | [**ICLR 2018**]
+
 **Acceleration:**
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [**CVPR 2016**]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
