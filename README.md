@@ -207,6 +207,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 - [DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients](https://arxiv.org/abs/1606.06160) | [2016/06]
 
+- [Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432) | [2013/08]
+
 **Knowledge Distillation**
 - [Apprentice: Using Knowledge Distillation Techniques To Improve Low-Precision Network Accuracy](https://arxiv.org/abs/1711.05852) | [**ICLR 2018**]
 
