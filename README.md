@@ -112,7 +112,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 ## 2.) Lightweight Structures
-### **[Papers]**  
+### **[CV Papers]**  
 **Backbone:**
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | [**ICML 2019**]
   + [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) | [Tensorflow]
