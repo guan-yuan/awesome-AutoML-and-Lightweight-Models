@@ -112,8 +112,8 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 
 ## 2.) Lightweight Structures
-### **[CV Papers]**  
-**Backbone:**
+### **[Papers]**  
+**Image Classification:**
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](http://proceedings.mlr.press/v97/tan19a.html) | [**ICML 2019**]
   + [tensorflow/tpu/models/official/efficientnet/](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet) | [Tensorflow]
   + [lukemelas/EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch) | [Pytorch]
@@ -122,7 +122,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
   + [kuan-wang/pytorch-mobilenet-v3](https://github.com/kuan-wang/pytorch-mobilenet-v3) | [Pytorch]
   + [leaderj1001/MobileNetV3-Pytorch](https://github.com/leaderj1001/MobileNetV3-Pytorch) | [Pytorch]
 
-**Segmentation:**
+**Semantic Segmentation:**
 - [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/abs/1811.08201) | [2019/04]
   + [wutianyiRosun/CGNet](https://github.com/wutianyiRosun/CGNet) | [Pytorch]
 
