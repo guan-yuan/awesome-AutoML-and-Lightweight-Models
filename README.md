@@ -6,6 +6,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 ## 1.) Neural Architecture Search
 ### **[Papers]**   
 **Gradient:**
+- [When NAS Meets Robustness: In Search of Robust Architectures against Adversarial Attacks](https://arxiv.org/abs/1911.10695) | [**CVPR 2020**]
+  + [gmh14/RobNets](https://github.com/gmh14/RobNets) | [Pytorch]
+
 - [Searching for A Robust Neural Architecture in Four GPU Hours](https://xuanyidong.com/publication/cvpr-2019-gradient-based-diff-sampler/) | [**CVPR 2019**]
   + [D-X-Y/GDAS](https://github.com/D-X-Y/GDAS) | [Pytorch]
 
