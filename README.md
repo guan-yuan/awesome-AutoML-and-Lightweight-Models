@@ -113,6 +113,7 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 
 ### **[Projects]**
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
+- [MindsDB](https://github.com/mindsdb/mindsdb) | [Python]
 
 ## 2.) Lightweight Structures
 ### **[Papers]**  
