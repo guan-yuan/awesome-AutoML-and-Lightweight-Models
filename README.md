@@ -240,12 +240,14 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Google vizier: A service for black-box optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) | [**SIGKDD 2017**]
 
 - [On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice](https://arxiv.org/abs/2007.15745) | [**Neurocomputing 2020**]
+  + [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms)
 
 ### **[Projects]**
 - [BoTorch](https://botorch.org/) | [PyTorch]
 - [Ax (Adaptive Experimentation Platform)](https://ax.dev/) | [PyTorch]
 - [Microsoft/nni](https://github.com/Microsoft/nni) | [Python]
 - [dragonfly/dragonfly](https://github.com/dragonfly/dragonfly) | [Python]
+- [LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms](https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms) | [Python]
 
 ### **[Tutorials/Blogs]**
 - [Hyperparameter tuning in Cloud Machine Learning Engine using Bayesian Optimization](https://cloud.google.com/blog/products/gcp/hyperparameter-tuning-cloud-machine-learning-engine-using-bayesian-optimization)
