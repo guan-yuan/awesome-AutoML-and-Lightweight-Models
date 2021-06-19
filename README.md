@@ -222,6 +222,9 @@ This repo is aimed to provide the info for AutoML research (especially for the l
 - [Fast Algorithms for Convolutional Neural Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf) | [**CVPR 2016**]
   + [andravin/wincnn](https://github.com/andravin/wincnn) | [Python]
 
+**Survey:**
+- [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+
 ### **[Projects]**
 - [NervanaSystems/distiller](https://github.com/NervanaSystems/distiller/) | [Pytorch]
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) | [Tensorflow]
